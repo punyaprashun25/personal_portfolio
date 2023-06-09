@@ -18,7 +18,8 @@ Extra-Curriculam Actitvites:
   --> achieved 5 star in Problem solving & Python on HackerRank.
   --> 4 star in MySql on HackerRank
   --> I have been ranked 1st on the Coding Mania competition held by Coding Club in my college.
-  --> Partitipated in Hackanthon as a team leader and build FullStack app with my team where I created prototype & wireframing. Along with this, I build back-end
+  --> Partitipated in Hackanthon as a team leader and build FullStack app with my team 
+      where I created prototype & wireframing. Along with this, I build back-end
   --> using django & MySql for our app.
   
  Projects I build so far:
